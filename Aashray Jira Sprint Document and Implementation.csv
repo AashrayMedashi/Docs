@@ -1,0 +1,13 @@
+Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Status
+Subtask,CPDE-12,10011,clean claims data,,,In Progress
+Subtask,CPDE-11,10010,Clean sub group data,,,In Progress
+Subtask,CPDE-10,10009,Clean group data,,,In Progress
+Subtask,CPDE-9,10008,Clean hospital data,,,In Progress
+Subtask,CPDE-8,10007,Clean diseases data,,,In Progress
+Subtask,CPDE-7,10006,Clean subscriber data,,,In Progress
+Subtask,CPDE-6,10005,Clean patient data,,,In Progress
+Subtask,CPDE-5,10004,Upload data to S3,,,Done
+Story,CPDE-4,10003,Implementation,,,In Progress
+Subtask,CPDE-3,10002,Design Document,,,Done
+Subtask,CPDE-2,10001,Specification,,,Done
+Story,CPDE-1,10000,Specification Design Document,,,Done
